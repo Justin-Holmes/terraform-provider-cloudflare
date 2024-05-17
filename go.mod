@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/agext/levenshtein v1.2.3 // indirect
-	github.com/cloudflare/cloudflare-go v0.62.0
+	github.com/cloudflare/cloudflare-go v0.95.0
 	github.com/fatih/color v1.13.0 // indirect
 	github.com/google/uuid v1.3.0
 	github.com/hashicorp/errwrap v1.1.0 // indirect
@@ -24,11 +24,11 @@ require (
 	github.com/oklog/run v1.1.0 // indirect
 	github.com/pkg/errors v0.9.1
 	github.com/zclconf/go-cty v1.12.1 // indirect
-	golang.org/x/crypto v0.6.0 // indirect
-	golang.org/x/net v0.8.0
-	golang.org/x/sys v0.6.0 // indirect
-	golang.org/x/text v0.8.0 // indirect
-	golang.org/x/time v0.3.0 // indirect
+	golang.org/x/crypto v0.23.0 // indirect
+	golang.org/x/net v0.25.0
+	golang.org/x/sys v0.20.0 // indirect
+	golang.org/x/text v0.15.0 // indirect
+	golang.org/x/time v0.5.0 // indirect
 )
 
 require (
@@ -38,17 +38,18 @@ require (
 	github.com/hashicorp/terraform-plugin-framework-validators v0.10.0
 	github.com/hashicorp/terraform-plugin-log v0.8.0
 	github.com/hashicorp/terraform-plugin-mux v0.9.0
-	github.com/stretchr/testify v1.8.2
+	github.com/stretchr/testify v1.9.0
 )
 
 require (
 	github.com/apparentlymart/go-textseg/v13 v13.0.0 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
+	github.com/goccy/go-json v0.10.2 // indirect
 	github.com/golang/protobuf v1.5.2 // indirect
 	github.com/google/go-cmp v0.5.9 // indirect
 	github.com/google/go-querystring v1.1.0 // indirect
 	github.com/hashicorp/go-checkpoint v0.5.0 // indirect
-	github.com/hashicorp/go-retryablehttp v0.7.2 // indirect
+	github.com/hashicorp/go-retryablehttp v0.7.5 // indirect
 	github.com/hashicorp/go-version v1.6.0 // indirect
 	github.com/hashicorp/hc-install v0.5.0 // indirect
 	github.com/hashicorp/logutils v1.0.0 // indirect
